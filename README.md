@@ -6,6 +6,7 @@
 
 유기견 입양을 생각하고 있다면, 입양의 A to Z
 
+http://imcute.shop/ goGoGO
 우리의 운명적인 만남 "GETTING개팅:laughing:"
 
 :ledger:메인기능
