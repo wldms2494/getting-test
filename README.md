@@ -14,14 +14,9 @@
 
 <table>
 <tr>
-    <th>회원가입</th>   
+    <th>회원가입</th>
+     <th>로그인</th> 
   
 </tr>
-    
-<tr>
-    <th>로그인</th>   
-  
-</tr>
-
 
 </table>
