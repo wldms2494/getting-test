@@ -44,9 +44,16 @@
 
 
 
+
+
+
+
 ## :mag_right: Project Architecture :mag_right:
 
 <img src = "https://user-images.githubusercontent.com/80088918/141522884-f5682b71-43f3-41d4-aa24-221e2865f6e2.jpg" width="500" >
+
+
+
 
 
 
