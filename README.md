@@ -1,4 +1,4 @@
-Intro 
+:house_with_garden:Intro 
 ========================
 
 너도 가족을 찾니?
@@ -6,9 +6,9 @@ Intro
 
 유기견 입양을 생각하고 있다면, 입양의 A to Z
 
-우리의 운명적인 만남 "GETTING개팅"
+우리의 운명적인 만남 "GETTING개팅:laughing:"
 
-메인기능
+:ledger:메인기능
 =========================
 - 유기견 반려견 교육자료와 퀴즈 제공
 - 개인으로서 유기견 분양 게시글을 올릴 수 있으며, 보호소에 등록된 유기견들도 조회
@@ -20,7 +20,7 @@ Intro
 🚀DEMO
 ==========================
 
-|                                                                                                           회원가입 |로그인|
+|                                                                                                           회원가입:closed_lock_with_key: |로그인:key:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/141507977-bfd22590-af0f-4e9e-bca0-e1d4f1aa9581.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/141508027-5c43efea-d180-49b7-8077-af8c81016e9d.gif" width="200" >|
 
@@ -32,13 +32,13 @@ Intro
 |<img src = "https://user-images.githubusercontent.com/80088918/141513256-af9a1583-3563-450a-9e1c-6a9a6210ce94.gif" width="200" >|
 
 
-|                                                                                                            분양 게시글 작성 |입양 신청서 작성|
+|                                                                                                            분양 게시글 작성 :pencil2:|입양 신청서 작성:pencil2:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/141517814-c28b2afa-2bdc-4fcb-a60c-59d69c48c2ed.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/141517851-b9c256ed-4eeb-4420-9ee2-9524b03cbeef.gif" width="200" >|
 
 
 
-|                                                                                                         검색조회 |
+|                                                                                                         검색조회 :crystal_ball:|
 |--------------------------------------------------------------------------------------------------------------------------------|
 |<img src = "https://user-images.githubusercontent.com/80088918/141520147-9d1c7156-ba30-4b7b-8bc2-f3c7881e27af.gif" width="200" >|
 
@@ -50,7 +50,7 @@ Intro
 
 
 
-## FrontEnd  - 어려웠던 점
+## FrontEnd  - 어려웠던 점:balloon:
 
 1. Footer를 원하는 페이지에만 나타나게 하기가 어려웠습니다.  
     
@@ -62,6 +62,6 @@ Intro
 (리턴문을 사용할 수 없는 경우에는 부모에게서 props를 통해 데이터를 받아오는 방식으로 처리했습니다. 이 경우에는 undefined이 뜨지 않습니다.)
 
 
-## BackEnd - 어려웠던 점
+## BackEnd - 어려웠던 점:balloon:
 
 - jpa 순환참조 오류
