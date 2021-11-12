@@ -1,2 +1,3 @@
 # docking-final-project
-![회원가입](https://user-images.githubusercontent.com/80088918/141505208-1c66d0ad-6420-4d6a-8dd3-18374a477bbb.gif)
+![회원가입1](https://user-images.githubusercontent.com/80088918/141507977-bfd22590-af0f-4e9e-bca0-e1d4f1aa9581.gif)
+![로그인](https://user-images.githubusercontent.com/80088918/141508027-5c43efea-d180-49b7-8077-af8c81016e9d.gif)
