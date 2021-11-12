@@ -54,15 +54,3 @@ Getting final project
 ## BackEnd - 어려웠던 점
 
 - jpa 순환참조 오류
-
-![무한반복.JPG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c147eb3-3875-4bd8-a9a5-5b0a8a07375b/무한반복.jpg)
-
-[[인하우스키친] Lazy 로딩으로 인한 JSON 오류 (tistory.com)](https://jhkang-tech.tistory.com/92)
-
-1. [application.properties](http://application.properties)에 `spring.jackson.serialization.fail-on-empty-beans=false` 추가
-2. @JsonManagedReference, @JsonBackReference 추가
-
-<img src = "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae1eee9e-d0d1-44e1-b97c-28132afea5dc/무한반복.jpg" width="200" >
-
-
-![무한반복2.JPG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47d56227-c2a2-4b08-be89-8689ddc023c4/무한반복2.jpg)
