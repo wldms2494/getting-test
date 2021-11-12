@@ -7,6 +7,7 @@ import static org.mockito.Mockito.when;
 import com.sparta.dockingfinalproject.alarm.AlarmRepository;
 import com.sparta.dockingfinalproject.comment.CommentRepository;
 import com.sparta.dockingfinalproject.exception.DockingException;
+import com.sparta.dockingfinalproject.pet.IsAdopted;
 import com.sparta.dockingfinalproject.pet.Pet;
 import com.sparta.dockingfinalproject.pet.PetRepository;
 import com.sparta.dockingfinalproject.pet.Sex;
@@ -83,13 +84,10 @@ class PostServiceTest {
         .url("https://www.naver.com")
         .img(temp)
         .extra("귀여움")
-        .isAdopted("true")
+        .isAdopted("abandoned")
         .build();
 
-    pet = new Pet(10L, "요크셔", Sex.M, 1, 3.5, "남양주시", "경기도 남양주시 도농동",
-        "010-1234-1236", "친근", "https://www.naver.com", "true",
-        "보호소", "10", "귀여움", "https://www.naver.com",
-        new Post());
+    pet = new Pet(10L, "요크셔", Sex.M, 1, 3.5, "남양주시", "경기도 남양주시 도농동", "010-1234-1236", "친근", "https://www.naver.com", IsAdopted.adopted, "보호소", "10", "귀여움", "https://www.naver.com", new Post());
 
     user = new User(1L, "user1", "aa1234", "홍길동", "sss@naver.com", "", "",  0L, "", true, "");
 
@@ -184,7 +182,7 @@ class PostServiceTest {
         .url("https://www.naver.com")
         .img(temp)
         .extra("귀여움")
-        .isAdopted("true")
+        .isAdopted("abandoned")
         .build();
 
     postService.updatePost(post.getPostId(), petRequestDto, userDetails);
