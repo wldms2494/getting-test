@@ -38,7 +38,7 @@
 
 
 
-|                                                                                                           검색 조회 |관심 동물 조회|
+|                                                                                                           검색 조회:cherries: |관심 동물 조회:bookmark:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/141520147-9d1c7156-ba30-4b7b-8bc2-f3c7881e27af.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/141524741-6eda8ea1-e26b-4235-9016-1b710ce0af27.gif" width="200" >|
 
