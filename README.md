@@ -62,6 +62,7 @@ Getting final project
 1. [application.properties](http://application.properties)에 `spring.jackson.serialization.fail-on-empty-beans=false` 추가
 2. @JsonManagedReference, @JsonBackReference 추가
 
-![무한반복.JPG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae1eee9e-d0d1-44e1-b97c-28132afea5dc/무한반복.jpg)
+<img src = "https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae1eee9e-d0d1-44e1-b97c-28132afea5dc/무한반복.jpg" width="200" >
+
 
 ![무한반복2.JPG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47d56227-c2a2-4b08-be89-8689ddc023c4/무한반복2.jpg)
