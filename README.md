@@ -37,3 +37,31 @@ Getting final project
 |--------------------------------------------------------------------------------------------------------------------------------|
 |<img src = "https://user-images.githubusercontent.com/80088918/141520147-9d1c7156-ba30-4b7b-8bc2-f3c7881e27af.gif" width="200" >|
 
+
+
+## FrontEnd  - 어려웠던 점
+
+1. Footer를 원하는 페이지에만 나타나게 하기가 어려웠습니다.  
+    
+    Footer는 라우트가 아닌 컴포넌트 였기 때문에  Footer에서 location, match, history 를 사용하여 원하는 페이지에서만 나오게 예외처리 할 수가 없습니다. 
+    
+    해결 방법으로 Footer에 withRouter 라는 Hook을 사용하여 props로 history 받아와 pathname으로 원하는 페이지에만 나타나게 구현하였습니다.
+    
+2. 리덕스 스토어에 저장된 데이터가 렌더링 보다 먼저 불러져서 undefined  오류가 뜨는 경우가 많았습니다.  이것의 해결 방법으로 데이터가 아직 불러와지지 못 했다면 로딩 화면을 리턴해주게 하였고 그렇지 않다면 통과하게 했으며 이 방식을 통해 해결 하엿습니다.
+(리턴문을 사용할 수 없는 경우에는 부모에게서 props를 통해 데이터를 받아오는 방식으로 처리했습니다. 이 경우에는 undefined이 뜨지 않습니다.)
+
+
+## BackEnd - 어려웠던 점
+
+- jpa 순환참조 오류
+
+![무한반복.JPG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0c147eb3-3875-4bd8-a9a5-5b0a8a07375b/무한반복.jpg)
+
+[[인하우스키친] Lazy 로딩으로 인한 JSON 오류 (tistory.com)](https://jhkang-tech.tistory.com/92)
+
+1. [application.properties](http://application.properties)에 `spring.jackson.serialization.fail-on-empty-beans=false` 추가
+2. @JsonManagedReference, @JsonBackReference 추가
+
+![무한반복.JPG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae1eee9e-d0d1-44e1-b97c-28132afea5dc/무한반복.jpg)
+
+![무한반복2.JPG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/47d56227-c2a2-4b08-be89-8689ddc023c4/무한반복2.jpg)
