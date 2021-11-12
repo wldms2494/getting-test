@@ -16,5 +16,5 @@
 
 |                                                                                                            분양 게시글 작성 |입양 신청서 작성|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
-|<img src = "https://user-images.githubusercontent.com/80088918/141517814-c28b2afa-2bdc-4fcb-a60c-59d69c48c2ed.gif" >|<img src = "https://user-images.githubusercontent.com/80088918/141517851-b9c256ed-4eeb-4420-9ee2-9524b03cbeef.gif" width="200" >|
+|<img src = "https://user-images.githubusercontent.com/80088918/141517814-c28b2afa-2bdc-4fcb-a60c-59d69c48c2ed.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/141517851-b9c256ed-4eeb-4420-9ee2-9524b03cbeef.gif" width="200" >|
 
