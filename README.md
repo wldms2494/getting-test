@@ -26,7 +26,9 @@ Getting your family
 |                                                                                                           회원가입:closed_lock_with_key: |로그인:key:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/141507977-bfd22590-af0f-4e9e-bca0-e1d4f1aa9581.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/141508027-5c43efea-d180-49b7-8077-af8c81016e9d.gif" width="200" >|
-
+|                                                                                                         문자 인증 가입 :crystal_ball:|
+|--------------------------------------------------------------------------------------------------------------------------------|
+|<img src = "https://user-images.githubusercontent.com/80088918/144418489-3de7f101-e617-4ff1-9d1e-74530ce17b69.gif" width="200" >|
 
 -------------------------------------------------------------------------------------
 
@@ -71,9 +73,7 @@ Getting your family
 |<img src = "https://user-images.githubusercontent.com/80088918/141520147-9d1c7156-ba30-4b7b-8bc2-f3c7881e27af.gif" width="200" >|
 
 
-|                                                                                                         댓글 CRUD :crystal_ball:|
-|--------------------------------------------------------------------------------------------------------------------------------|
-|<img src = "https://user-images.githubusercontent.com/80088918/141599414-81b08db4-2954-4c43-8b8c-cb942425dd8c.gif" width="200" >|
+
 
 
 
