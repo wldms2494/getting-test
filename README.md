@@ -23,10 +23,10 @@ Getting your family
 🚀DEMO
 ==========================
 
-|                                                                                                         문자 인증 가입 :crystal_ball:|
-|--------------------------------------------------------------------------------------------------------------------------------|
-|<img src = "https://user-images.githubusercontent.com/80088918/144418489-3de7f101-e617-4ff1-9d1e-74530ce17b69.gif" width="200" >|
 
+|  회원가입  | 로그인 |  문자인증  |
+|-----------|---------------|--------------|
+|<img src = "https://user-images.githubusercontent.com/80088918/144443642-907e7e9b-a8ef-470a-8b3b-0ff967c1fae8.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144443734-2543a393-60c8-43b2-bdbe-9eac1183ca00.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144418489-3de7f101-e617-4ff1-9d1e-74530ce17b69.gif" width="200" >|
 
 -----------------------------------------------------------------------------------
 
@@ -37,6 +37,8 @@ Getting your family
 |     필수지식|심화지식1|  심화지식2    |
 |-----------|---------------|--------------|
 |<img src = "https://user-images.githubusercontent.com/80088918/144421566-54b89915-ac3c-41a6-a401-6e4418ed5dd5.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144418712-90841861-9e11-41b2-b590-a5a9d09c86d6.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144422293-ff538bcd-42f0-444b-bcb0-c5fc84eaa332.gif" width="200" >|
+
+
 
 |     필수퀴즈|심화퀴즈1|  심화퀴즈2    |
 |-----------|---------------|--------------|
