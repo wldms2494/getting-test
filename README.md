@@ -31,10 +31,26 @@ Getting your family
 -----------------------------------------------------------------------------------
 
 
+
+
+
+|     관심 등록|나의 입양 신청|  입양 승인    |입양 거절| ㅎㅇㅎㅇ|ㅂㅇㅂㅇ|
+|-----------|---------------|--------------|-------------------|-------------|---------------|
+|<img src = "https://user-images.githubusercontent.com/80088918/144427722-e8bf4e3a-9fe8-4f6c-a0f0-7e408f94bf15.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144429889-03b88709-db76-4245-a165-aab9be49547c.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427804-e4acf810-6ae5-4ab7-aeb4-72196fc53301.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427832-6295e9b5-4bdc-410a-bbb8-1f12a4886a69.gif" width="200" >||<img src = "https://user-images.githubusercontent.com/80088918/144427832-6295e9b5-4bdc-410a-bbb8-1f12a4886a69.gif" width="200" >||<img src = "https://user-images.githubusercontent.com/80088918/144427832-6295e9b5-4bdc-410a-bbb8-1f12a4886a69.gif" width="200" >|
+
+
+
+
+
+
+
+
+
+
 |                                                                                                           필수교육:closed_lock_with_key: |필수퀴즈:key:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/144421566-54b89915-ac3c-41a6-a401-6e4418ed5dd5.gif" width="200">|<img src = "https://user-images.githubusercontent.com/80088918/144418674-07ac232e-5756-4ad1-be79-210dd4021998.gif" width="200" >|
---
+
 
 
 |                                                                                                           심화지식1:closed_lock_with_key: |심화1퀴즈:key:|
