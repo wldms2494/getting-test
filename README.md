@@ -34,16 +34,13 @@ Getting your family
 
 |                                                                                                           필수교육:closed_lock_with_key: |필수퀴즈:key:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
-|<img src = "https://user-images.githubusercontent.com/80088918/144421566-54b89915-ac3c-41a6-a401-6e4418ed5dd5.gif" >|<img src = "https://user-images.githubusercontent.com/80088918/144418674-07ac232e-5756-4ad1-be79-210dd4021998.gif" width="200" >|
+|<img src = "https://user-images.githubusercontent.com/80088918/144421566-54b89915-ac3c-41a6-a401-6e4418ed5dd5.gif" width="200">|<img src = "https://user-images.githubusercontent.com/80088918/144418674-07ac232e-5756-4ad1-be79-210dd4021998.gif" width="200" >|
 
 -------------------------------------------------------------------------------------
 
 
 
 
-|                                                                                                           교육이수:mortar_board: |
-|--------------------------------------------------------------------------------------------------------------------------------|
-|<img src = "https://user-images.githubusercontent.com/80088918/141513256-af9a1583-3563-450a-9e1c-6a9a6210ce94.gif" width="200" >|
 
 
 |                                                                                                            분양 게시글 작성 :pencil2:|입양 신청서 작성:pencil2:|
