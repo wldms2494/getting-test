@@ -178,8 +178,3 @@
 
 
 <a href='https://www.notion.so/9514c3bedbb8428aa72663125bdd0014' target='_blank'>사용자 피드백 바로가기 </a>
-
----
-
-## ✍ 개인회고
-
