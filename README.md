@@ -84,7 +84,7 @@ Getting your family
 
 |     입양승인 :pencil2:|입양거절:pencil2:|      hihi   |
 |-----------|---------------|--------------|
-|<img src = "" width="200" >|<img src = "" width="200" >|<img src = "" width="200" >|
+|<img src = "https://user-images.githubusercontent.com/80088918/144427722-e8bf4e3a-9fe8-4f6c-a0f0-7e408f94bf15.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427722-e8bf4e3a-9fe8-4f6c-a0f0-7e408f94bf15.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427722-e8bf4e3a-9fe8-4f6c-a0f0-7e408f94bf15.gif" width="200" >|
 
 
 
