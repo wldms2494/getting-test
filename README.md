@@ -99,7 +99,7 @@
 <details>
 <summary>로그인</summary>
 
-+ JWT 토큰 방식을 이용하여 로그인이 가능합니다.
++ Spring Security + JWT 기반 일반 로그인
 + 카카오 소셜 로그인이 가능합니다.
 </details>
 
