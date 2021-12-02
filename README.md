@@ -77,7 +77,7 @@
 
 ## 🧩 프로젝트 구조(아키텍쳐)
 <br>
-<img src='./public/img/GUIicon/achitecture.PNG' />
+<img src="https://github.com/hanhae99-final-project-13/Getting-FrontEnd/blob/main/public/img/GUIicon/achitecture.PNG" />
 
 ---
 
