@@ -44,41 +44,6 @@ Getting your family
 
 
 
-
-
-
-
-
-
-
-|                                                                                                           필수교육:closed_lock_with_key: |필수퀴즈:key:|
-|--------------------------------------------------------------------------------------------------------------------------------|---|
-|<img src = "https://user-images.githubusercontent.com/80088918/144421566-54b89915-ac3c-41a6-a401-6e4418ed5dd5.gif" width="200">|<img src = "https://user-images.githubusercontent.com/80088918/144418674-07ac232e-5756-4ad1-be79-210dd4021998.gif" width="200" >|
-
-
-
-|                                                                                                           심화지식1:closed_lock_with_key: |심화1퀴즈:key:|
-|--------------------------------------------------------------------------------------------------------------------------------|---|
-|<img src = "https://user-images.githubusercontent.com/80088918/144418712-90841861-9e11-41b2-b590-a5a9d09c86d6.gif" width="200">|<img src = "https://user-images.githubusercontent.com/80088918/144418777-09fd3839-b4f8-42f2-917e-6514e9280838.gif" width="200" >|
-
-
-|                                                                                                           심화지식2:closed_lock_with_key: |심화2퀴즈:key:|
-|--------------------------------------------------------------------------------------------------------------------------------|---|
-|<img src = "https://user-images.githubusercontent.com/80088918/144422293-ff538bcd-42f0-444b-bcb0-c5fc84eaa332.gif" width="200">|<img src = "https://user-images.githubusercontent.com/80088918/144418877-87275ab8-7043-4d3c-abad-63649f596682.gif" width="200" >|
-
-
-
-
-
-
-
-
-
------------------------------------------------------------------------------------
-
-
-
-
 |                                                                                                            분양 게시글 작성 :pencil2:|입양 신청서 작성:pencil2:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/144418898-f5bd5b5f-f45d-4517-b01f-7677436cfa8c.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427658-ce665791-b6da-4825-90b1-52885c8cb601.gif" width="200" >|
