@@ -1,13 +1,14 @@
-# getting-final-project
+# 🐶개팅 Getting
+
+<img src='./public/img/GUIicon/getting_readme.svg' style=width:auto />
 
 
-:house_with_garden:Intro 
-========================
-
-<img src = "https://github.com/hanhae99-final-project-13/Getting-FrontEnd/blob/main/public/img/GUIicon/getting_readme.svg" width = "500">
 
 
-저희 개팅은
+
+
+
+저희 개팅은 
 
 반려견에 대한 교육 지식과 퀴즈를 통해 예비 견주님들께는 반려견을 키울 수 있다는 자신감을,
 
@@ -15,18 +16,24 @@
 
 이를 바탕으로 올바른 반려견 입양 문화를 지향하는 유기견 입양 웹앱 서비스입니다.
 
-<p style='font-size:22px;'>🌐<a href='https://getting.co.kr' target='_blank'>개팅 바로가기!</a></p>
-<p style='font-size:22px;'>🌐<a href='https://www.notion.so/Getting-f2a8f1ac6dea41f79d60b318f7c0e41a' target='_blank'>Notion</a></p>
+<p style='font-size:22px;'>🌐<a href='https://getting.co.kr' target='_blank'>개팅에서 개팅하세요!</a></p>
+
+---
+
+## 📝 개요
++ 프로젝트 이름 : 개팅 (Getting)
++ 개발 기간 : 2021.10.24 ~ 2021.12.04
++ 팀원
+    + Front-end(React) : <a href='https://github.com/GCEE91' style="text-decoration:none" target='_blank'>김기철</a>, <a href='https://github.com/geemhunsu' style="text-decoration:none" target='_blank'>김현수</a>, <a href='https://github.com/2Juzzang' style="text-decoration:none" target='_blank'>이지훈</a>
+    + Back-end(Spring) : <a href='https://github.com/wldms2494' style="text-decoration:none" target='_blank'>송지은</a>, <a href='https://github.com/vktm91' style="text-decoration:none" target='_blank'>이다담</a>, <a href='https://github.com/zzangoobrother' style="text-decoration:none" target='_blank'>최선강</a>
+    + Designer(UI/UX) : 윤서연, 장성윤
++ <a href='https://www.notion.so/Getting-f2a8f1ac6dea41f79d60b318f7c0e41a' target='_blank' >Notion</a>
++ <a href=''>시연 영상</a>
++ <a href='https://github.com/hanhae99-final-project-13' target='_blank'>Github</a>
 
 
-:ledger:메인기능
-=========================
-- 유기견 반려견 교육자료와 퀴즈 제공
-- 개인으로서 유기견 분양 게시글을 올릴 수 있으며, 보호소에 등록된 유기견들도 조회
-- 사용자가 직접 입양 신청서를 업로드 가능
-- 문자 서비스
-- JWT로그인, 소셜로그인
-- 알림 서비스를 통해 입양 후 케어 서비스 제공
+---
+## DEMO
 
 🚀DEMO
 ==========================
@@ -68,12 +75,11 @@
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/144443534-6daf3fcd-d4a0-4c63-897e-1e269a84ae98.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144435979-195f40da-2335-48e6-b8a7-4a96259197a3.gif" width="200" >|
 
+## 🧩 프로젝트 구조(아키텍쳐)
+<br>
+<img src='./public/img/GUIicon/achitecture.PNG' />
 
-
-Tech Structure
-================
-
-<img src = "https://github.com/hanhae99-final-project-13/Getting-FrontEnd/blob/main/public/img/GUIicon/achitecture.PNG" width = "800">
+---
 
 ## 🧰 사용 패키지
 
@@ -88,18 +94,7 @@ Tech Structure
 + styled-components
 + sweetalert2
 
-
-## 🛠 개선사항
-
-
-<a href='https://www.notion.so/9514c3bedbb8428aa72663125bdd0014' target='_blank'>사용자 피드백 </a>
-
 ---
-
-## ✍ 개인회고
-
-
-
 
 ## ⚙ 주요 기능
 
@@ -182,7 +177,12 @@ Tech Structure
 
 ---
 
+## 🛠 개선사항
 
 
+<a href='https://www.notion.so/9514c3bedbb8428aa72663125bdd0014' target='_blank'>사용자 피드백 </a>
 
+---
+
+## ✍ 개인회고
 
