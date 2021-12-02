@@ -75,9 +75,29 @@ Tech Structure
 
 <img src = "https://github.com/hanhae99-final-project-13/Getting-FrontEnd/blob/main/public/img/GUIicon/achitecture.PNG" width = "800">
 
+## 🧰 사용 패키지
 
-주요 기능
-==================
++ aws-sdk
++ axios
++ lodash
++ react-device-detect
++ react-slick
++ redux
++ sockjs
++ stompjs
++ styled-components
++ sweetalert2
+
+
+## 🛠 개선사항
+
+
+<a href='https://www.notion.so/9514c3bedbb8428aa72663125bdd0014' target='_blank'>사용자 피드백 </a>
+
+---
+
+## ✍ 개인회고
+
 
 
 
