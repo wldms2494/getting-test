@@ -7,6 +7,15 @@
 <img src = "https://github.com/hanhae99-final-project-13/Getting-FrontEnd/blob/main/public/img/GUIicon/getting_readme.svg" width = "500">
 
 
+저희 개팅은
+
+반려견에 대한 교육 지식과 퀴즈를 통해 예비 견주님들께는 반려견을 키울 수 있다는 자신감을,
+
+임보자님들께는 믿고 맡길 수 있는 예비 견주님들을 만나실 수 있는 기회를 제공하고자 합니다.
+
+이를 바탕으로 올바른 반려견 입양 문화를 지향하는 유기견 입양 웹앱 서비스입니다.
+
+<p style='font-size:22px;'>🌐<a href='https://getting.co.kr' target='_blank'>개팅에서 개팅하세요!</a></p>
 
 
 :ledger:메인기능
