@@ -70,6 +70,13 @@
 
 
 
+Tech Structure
+================
+
+<img src = "https://github.com/hanhae99-final-project-13/Getting-FrontEnd/blob/main/public/img/GUIicon/achitecture.PNG" width = "600">
+
+
+
 
 
 
