@@ -46,7 +46,7 @@ Getting your family
 
 |                                                                                                           심화지식2:closed_lock_with_key: |심화2퀴즈:key:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
-|<img src = "https://user-images.githubusercontent.com/80088918/144418712-90841861-9e11-41b2-b590-a5a9d09c86d6.gif" width="200">|<img src = "https://user-images.githubusercontent.com/80088918/144418877-87275ab8-7043-4d3c-abad-63649f596682.gif" width="200" >|
+|<img src = "https://user-images.githubusercontent.com/80088918/144422293-ff538bcd-42f0-444b-bcb0-c5fc84eaa332.gif" width="200">|<img src = "https://user-images.githubusercontent.com/80088918/144418877-87275ab8-7043-4d3c-abad-63649f596682.gif" width="200" >|
 
 
 
