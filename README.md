@@ -15,7 +15,7 @@
 
 이를 바탕으로 올바른 반려견 입양 문화를 지향하는 유기견 입양 웹앱 서비스입니다.
 
-<p style='font-size:22px;'>🌐<a href='https://getting.co.kr' target='_blank'>개팅!</a></p>
+<p style='font-size:22px;'>🌐<a href='https://getting.co.kr' target='_blank'>개팅 바로가기!</a></p>
 <p style='font-size:22px;'>🌐<a href='https://www.notion.so/Getting-f2a8f1ac6dea41f79d60b318f7c0e41a' target='_blank'>Notion</a></p>
 
 
