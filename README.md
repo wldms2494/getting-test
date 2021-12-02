@@ -4,13 +4,7 @@
 :house_with_garden:Intro 
 ========================
 
-너도 가족을 찾니?
-나도 가족을 찾아!
-
-Getting your family   
-
-우리의 운명적인 만남 "*GETTING개팅:laughing:*"
-
+<img src = "https://github.com/hanhae99-final-project-13/Getting-FrontEnd/blob/main/public/img/GUIicon/getting_readme.svg" width = "500">
 :ledger:메인기능
 =========================
 - 유기견 반려견 교육자료와 퀴즈 제공
