@@ -1,15 +1,15 @@
+# getting-final-project
+
+
 :house_with_garden:Intro 
 ========================
 
 너도 가족을 찾니?
 나도 가족을 찾아!
 
-유기견 입양을 생각하고 있다면, 입양의 A to Z
+Getting your family   
 
-
-우리의 운명적인 만남 "GETTING개팅:laughing:"  
-
-http://imcute.shop/ goGoGO
+우리의 운명적인 만남 "*GETTING개팅:laughing:*"
 
 :ledger:메인기능
 =========================
@@ -17,7 +17,7 @@ http://imcute.shop/ goGoGO
 - 개인으로서 유기견 분양 게시글을 올릴 수 있으며, 보호소에 등록된 유기견들도 조회
 - 사용자가 직접 입양 신청서를 업로드 가능
 - 문자 서비스
-- JWT로그인, 소셜
+- JWT로그인, 소셜로그인
 - 알림 서비스를 통해 입양 후 케어 서비스 제공
 
 🚀DEMO
@@ -26,6 +26,17 @@ http://imcute.shop/ goGoGO
 |                                                                                                           회원가입:closed_lock_with_key: |로그인:key:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/141507977-bfd22590-af0f-4e9e-bca0-e1d4f1aa9581.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/141508027-5c43efea-d180-49b7-8077-af8c81016e9d.gif" width="200" >|
+
+
+-------------------------------------------------------------------------------------
+
+
+
+|                                                                                                           필수교육:closed_lock_with_key: |필수퀴즈:key:|
+|--------------------------------------------------------------------------------------------------------------------------------|---|
+|<img src = "https://user-images.githubusercontent.com/80088918/144418551-da874de4-b635-46af-9a3f-cdcd3b313d8d.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144418674-07ac232e-5756-4ad1-be79-210dd4021998.gif" width="200" >|
+
+-------------------------------------------------------------------------------------
 
 
 
@@ -41,29 +52,27 @@ http://imcute.shop/ goGoGO
 
 
 
-|                                                                                                           검색 조회:cherries: |관심 동물 조회:bookmark:|
-|--------------------------------------------------------------------------------------------------------------------------------|---|
-|<img src = "https://user-images.githubusercontent.com/80088918/141520147-9d1c7156-ba30-4b7b-8bc2-f3c7881e27af.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/141524741-6eda8ea1-e26b-4235-9016-1b710ce0af27.gif" width="200" >|
+|                                                                                                         검색조회 :crystal_ball:|
+|--------------------------------------------------------------------------------------------------------------------------------|
+|<img src = "https://user-images.githubusercontent.com/80088918/141520147-9d1c7156-ba30-4b7b-8bc2-f3c7881e27af.gif" width="200" >|
 
 
-
-
+|                                                                                                         댓글 CRUD :crystal_ball:|
+|--------------------------------------------------------------------------------------------------------------------------------|
+|<img src = "https://user-images.githubusercontent.com/80088918/141599414-81b08db4-2954-4c43-8b8c-cb942425dd8c.gif" width="200" >|
 
 
 
 ## :mag_right: Project Architecture :mag_right:
 
-<img src = "https://user-images.githubusercontent.com/80088918/141522884-f5682b71-43f3-41d4-aa24-221e2865f6e2.jpg" width="500" >
-
-
-
+<img src = "https://user-images.githubusercontent.com/80088918/141607475-bc0c659b-dc59-4d9a-b7f8-0e5114a56e69.jpg" width="700" >
 
 
 
 ## FrontEnd  - 어려웠던 점:balloon:
 
 1. Footer를 원하는 페이지에만 나타나게 하기가 어려웠습니다.  
-    
+
     Footer는 라우트가 아닌 컴포넌트 였기 때문에  Footer에서 location, match, history 를 사용하여 원하는 페이지에서만 나오게 예외처리 할 수가 없습니다. 
     
     해결 방법으로 Footer에 withRouter 라는 Hook을 사용하여 props로 history 받아와 pathname으로 원하는 페이지에만 나타나게 구현하였습니다.
@@ -74,4 +83,147 @@ http://imcute.shop/ goGoGO
 
 ## BackEnd - 어려웠던 점:balloon:
 
-- jpa 순환참조 오류
+
+#### jpa 순환참조 오류
+
+<img src = "https://user-images.githubusercontent.com/80088918/141600277-6a7a1dd4-a333-43d6-9efc-7410e8286f60.jpg" width="500" >
+
+ -  application 에 `spring.jackson.serialization.fail-on-empty-beanse=false`
+<img src = "https://user-images.githubusercontent.com/80088918/141600308-62caac66-c9ba-4299-b5ad-b2d4a7a069de.jpg" width="500" >
+
+ - @JasonManagedReference, @JsonBackReference추가
+<img src = "https://user-images.githubusercontent.com/80088918/141600314-b932f7d8-aa26-4e99-bffd-f8e0e868dc72.jpg" width="500" >
+
+
+#### 리팩토링 
+- 리팩토링 전
+```java
+publicMap<String,Object> home(UserDetailsImpluserDetails) {
+    Pageablepageable =PageRequest.of(0, 6);
+    Page<Post> postPage = postRepository.findAllByOrderByCreatedAtDesc(pageable);
+    List<Post> posts = postPage.getContent();
+    List<PostDetailResponseDto> postList = new ArrayList<>();
+    for (Postpost : posts) {
+        PostDetailResponseDtopostDetailResponseDto =PostDetailResponseDto.getPostDetailResponseDto(post);
+        postList.add(postDetailResponseDto);
+    }
+    Map<String,Object> data = new HashMap<>();
+    data.put("postList", postList);
+    data.put("alarmCount",alarmRepository.findAllByUserAndStatusTrueOrderByCreatedAtDesc(userDetails.getUser()));
+    returnSuccessResult.success(data);
+}
+
+@Transactional
+publicMap<String,Object> getPost(LongpostId,UserDetailsImpluserDetails) {
+    PostfindPost = bringPost(postId);
+    LonguserId =userDetails.getUser().getUserId();
+    Optional<Wish> findWish = null;
+
+    boolean heart = false;
+    if (userId != null) {
+        if (userDetails!= null) {
+            findWish = wishRepository.findAllByUserAndPost(userDetails.getUser(), findPost);
+            if (findWish.isPresent()) {
+                heart = true;
+            }
+            findPost.addViewCount();
+        }
+	PostDetailResponseDtopostResponseDto =PostDetailResponseDto.getPostDetailResponseDto(findPost, heart);
+
+	ArrayList<CommentResultDto> commentDtoList = new ArrayList<>();
+	List<CommentResponseDto> commentResponseDto = commentRepository.findAllByPost(findPost);
+        for (CommentResponseDtocrd : commentResponseDto) {
+	LongcommentId = crd.getCommentId();
+	Stringcomment = crd.getComment();
+	LocalDateTimecreatedAt = crd.getCreatedAt();
+	LocalDateTimemodifiedAt = crd.getModifiedAt();
+	Stringnickname = crd.getUser().getNickname();
+	Stringurl = crd.getUser().getUserImgUrl();
+	CommentResultDtocommentResultDto = new CommentResultDto(commentId, comment, nickname, url, createdAt, modifiedAt);
+        commentDtoList.add(commentResultDto);
+    }
+    Map<String,Object> data = new HashMap<>();
+    data.put("post", postResponseDto);
+    data.put("commentList", commentDtoList);
+    returnSuccessResult.success(data);
+  }
+}
+```
+
+- 리팩토링 후
+```java
+publicMap<String,Object> home(UserDetailsImpluserDetails) {
+    List<Post> posts = getPagePostSix();  
+    
+    Map<String,Object> data = new HashMap<>();
+    data.put("postList", getPostList(posts));
+    data.put("alarmCount", getAlarmCount(userDetails));
+
+    returnSuccessResult.success(data);
+}
+
+private List<Post> getPagePostSix() {
+    Pageable pageable = PageRequest.of(0, 6);
+    Page<Post> postPage = postRepository.findAllByOrderByCreatedAtDesc(pageable);
+    return postPage.getContent();
+}
+
+private List<PostPreviewDto> getPostList(List<Post> posts) {
+    List<PostPreviewDto> postList = new ArrayList<>();
+    for (Post post : posts) {
+      PostPreviewDto postPreviewDto = PostPreviewDto.of(post);
+      postList.add(postPreviewDto);
+    }
+    return postList;
+}
+
+private int getAlarmCount(UserDetailsImpl userDetails) {
+    if (userDetails != null) {
+      return alarmRepository.findAllByUserAndStatusTrueOrderByCreatedAtDesc(userDetails.getUser()).size();
+    }
+    return 0;
+}
+
+@Transactional
+public Map<String, Object> getPost(Long postId, UserDetailsImpl userDetails) {
+  Post findPost = bringPost(postId);
+  boolean heart = getHeart(userDetails, findPost);
+
+  findPost.addViewCount();
+
+  PostDetailResponseDto postResponseDto = PostDetailResponseDto.getPostDetailResponseDto(findPost, heart);
+
+  Map<String, Object> data = new HashMap<>();
+  data.put("post", postResponseDto);
+  data.put("commentList", getCommentList(findPost));
+
+  return SuccessResult.success(data);
+}
+
+private Post bringPost(Long postId) {
+  return postRepository.findById(postId).orElseThrow(
+      () -> new DockingException(ErrorCode.POST_NOT_FOUND)
+  );
+}
+
+private boolean getHeart(UserDetailsImpl userDetails, Post findPost) {
+    if (userDetails != null) {
+        Optional<Wish> findWish = wishRepository.findAllByUserAndPost(userDetails.getUser(), findPost);
+        if (findWish.isPresent()) {
+            return true;
+        }
+    }
+    return false;
+}
+
+private ArrayList<CommentResultDto> getCommentList(Post findPost) {
+  ArrayList<CommentResultDto> commentDtoList = new ArrayList<>();
+
+  List<CommentResponseDto> commentResponseDto = commentRepository.findAllByPost(findPost);
+  for (CommentResponseDto crd : commentResponseDto) {
+    CommentResultDto commentResultDto = getCommentResult(crd);
+    commentDtoList.add(commentResultDto);
+  }
+  return commentDtoList;
+}
+```
