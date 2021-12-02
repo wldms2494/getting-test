@@ -1,6 +1,6 @@
 # 🐶개팅 Getting
 
-<img src='./public/img/GUIicon/getting_readme.svg' style=width:auto />
+<img src="https://github.com/hanhae99-final-project-13/Getting-FrontEnd/blob/main/public/img/GUIicon/getting_readme.svg" style=width:auto />
 
 
 
