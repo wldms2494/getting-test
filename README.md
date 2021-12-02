@@ -34,7 +34,7 @@ Getting your family
 
 |                                                                                                           필수교육:closed_lock_with_key: |필수퀴즈:key:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
-|<img src = "https://user-images.githubusercontent.com/80088918/144418551-da874de4-b635-46af-9a3f-cdcd3b313d8d.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144418674-07ac232e-5756-4ad1-be79-210dd4021998.gif" width="200" >|
+|<img src = "https://user-images.githubusercontent.com/80088918/144421566-54b89915-ac3c-41a6-a401-6e4418ed5dd5.gif" >|<img src = "https://user-images.githubusercontent.com/80088918/144418674-07ac232e-5756-4ad1-be79-210dd4021998.gif" width="200" >|
 
 -------------------------------------------------------------------------------------
 
