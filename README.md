@@ -43,6 +43,12 @@ Getting your family
 
 
 
+|     관심 등록|나의 입양 신청|  입양 승인    |입양 거절|
+|-----------|---------------|--------------|-------------------|
+|<img src = "https://user-images.githubusercontent.com/80088918/144427722-e8bf4e3a-9fe8-4f6c-a0f0-7e408f94bf15.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144429889-03b88709-db76-4245-a165-aab9be49547c.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427804-e4acf810-6ae5-4ab7-aeb4-72196fc53301.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427832-6295e9b5-4bdc-410a-bbb8-1f12a4886a69.gif" width="200" >|
+
+
+
 |                                                                                                            분양 게시글 작성 :pencil2:|입양 신청서 작성:pencil2:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/144418898-f5bd5b5f-f45d-4517-b01f-7677436cfa8c.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427658-ce665791-b6da-4825-90b1-52885c8cb601.gif" width="200" >|
@@ -57,10 +63,6 @@ Getting your family
 
 
 
-
-|     관심 등록|나의 입양 신청|  입양 승인    |입양 거절|
-|-----------|---------------|--------------|-------------------|
-|<img src = "https://user-images.githubusercontent.com/80088918/144427722-e8bf4e3a-9fe8-4f6c-a0f0-7e408f94bf15.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144429889-03b88709-db76-4245-a165-aab9be49547c.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427804-e4acf810-6ae5-4ab7-aeb4-72196fc53301.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/144427832-6295e9b5-4bdc-410a-bbb8-1f12a4886a69.gif" width="200" >|
 
 
 
