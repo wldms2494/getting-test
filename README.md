@@ -28,13 +28,13 @@ Getting your family
 |<img src = "https://user-images.githubusercontent.com/80088918/144418489-3de7f101-e617-4ff1-9d1e-74530ce17b69.gif" width="200" >|
 
 
+-----------------------------------------------------------------------------------
 
 
 |                                                                                                           필수교육:closed_lock_with_key: |필수퀴즈:key:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
 |<img src = "https://user-images.githubusercontent.com/80088918/144421566-54b89915-ac3c-41a6-a401-6e4418ed5dd5.gif" width="200">|<img src = "https://user-images.githubusercontent.com/80088918/144418674-07ac232e-5756-4ad1-be79-210dd4021998.gif" width="200" >|
-
--------------------------------------------------------------------------------------
+--
 
 
 |                                                                                                           심화지식1:closed_lock_with_key: |심화1퀴즈:key:|
@@ -54,13 +54,14 @@ Getting your family
 
 
 
+-----------------------------------------------------------------------------------
 
 
 
 
 |                                                                                                            분양 게시글 작성 :pencil2:|입양 신청서 작성:pencil2:|
 |--------------------------------------------------------------------------------------------------------------------------------|---|
-|<img src = "https://user-images.githubusercontent.com/80088918/141517814-c28b2afa-2bdc-4fcb-a60c-59d69c48c2ed.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/141517851-b9c256ed-4eeb-4420-9ee2-9524b03cbeef.gif" width="200" >|
+|<img src = "https://user-images.githubusercontent.com/80088918/144418898-f5bd5b5f-f45d-4517-b01f-7677436cfa8c.gif" width="200" >|<img src = "https://user-images.githubusercontent.com/80088918/141517851-b9c256ed-4eeb-4420-9ee2-9524b03cbeef.gif" width="200" >|
 
 
 
